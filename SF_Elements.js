@@ -1,9 +1,9 @@
 function SF_Elements()
 {
-	this.URL_SF_UAT = "https://vocus--uat.cs116.my.salesforce.com/home/home.jsp?sdtd=1";
+	this.URL_SF_UAT = "";
 	
 //	login
-	this.passwordData = "Harekrishna1";
+	this.passwordData = "";
 	this.username = element(by.id("username"));
 	this.password = element(by.id("password"));
 	this.loginButton=element(by.id("Login"));
